@@ -1,0 +1,23 @@
+{
+  "name": "neon-test",
+  "version": "1.0.0",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeKrakken/neon-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeKrakken/neon-test/issues"
+  },
+  "homepage": "https://github.com/CodeKrakken/neon-test#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "pg": "^8.11.3"
+  }
+}
